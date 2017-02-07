@@ -1,0 +1,17 @@
+"repositories": [
+    {
+        "type": "package",
+        "package": {
+            "name": "samfrjn11/general-resources",
+            "version": "dev-master",
+            "source": {
+                "url": "git://github.com/samfrjn11/general-resources.git",
+                "type": "git",
+                "reference": "master"
+            },
+            "autoload": {
+                
+            }
+        }
+    }
+],
