@@ -1,17 +1,7 @@
 {
     "name": "samfrjn11/general-resources",
-    "type": "library",
-    "description": "General resource files / tools",
-    "keywords": ["general","resources"],
-    "homepage": "https://github.com/samfrjn11/general-resources",
+    "description": "General files for my projects",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Sam Smekens",
-            "email": "sam@s3s.eu",
-            "homepage": "http://visuals3.be",
-            "role": "Developer"
-        }
-    ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {}
 }
