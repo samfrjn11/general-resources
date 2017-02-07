@@ -1,0 +1,26 @@
+{
+  "name": "general-resources",
+  "version": "1.0.0",
+  "description": "General project files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samfrjn11/general-resources.git"
+  },
+  "keywords": [
+    "general",
+    "files",
+    "css",
+    "sass",
+    "js"
+  ],
+  "author": "Sam Smekens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samfrjn11/general-resources/issues"
+  },
+  "homepage": "https://github.com/samfrjn11/general-resources#readme"
+}
