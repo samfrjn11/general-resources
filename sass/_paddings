@@ -1,0 +1,88 @@
+/**
+ *  Paddings
+ *
+ */
+
+//  NO PADDING
+.no-padding {
+  padding: 0 !important;
+}
+
+.no-top-padding {
+  padding-top: 0 !important;
+}
+
+.no-right-padding {
+  padding-right: 0 !important;
+}
+
+.no-bottom-padding {
+  padding-bottom: 0 !important;
+}
+
+.no-left-padding {
+  padding-left: 0 !important;
+}
+
+//  SMALL PADDING
+.small-padding {
+  padding: $small-padding !important;
+}
+
+.small-top-padding {
+  padding-top: $small-padding !important;
+}
+
+.small-right-padding {
+  padding-right: $small-padding !important;
+}
+
+.small-bottom-padding {
+  padding-bottom: $small-padding !important;
+}
+
+.small-left-padding {
+  padding-left: $small-padding !important;
+}
+
+//  MEDIUM PADDING
+.med-padding {
+  padding: $med-padding !important;
+}
+
+.med-top-padding {
+  padding-top: $med-padding !important;
+}
+
+.med-right-padding {
+  padding-right: $med-padding !important;
+}
+
+.med-bottom-padding {
+  padding-bottom: $med-padding !important;
+}
+
+.med-left-padding {
+  padding-left: $med-padding !important;
+}
+
+//  LARGE PADDING
+.large-padding {
+  padding: $large-padding !important;
+}
+
+.large-top-padding {
+  padding-top: $large-padding !important;
+}
+
+.large-right-padding {
+  padding-right: $large-padding !important;
+}
+
+.large-bottom-padding {
+  padding-bottom: $large-padding !important;
+}
+
+.large-left-padding {
+  padding-left: $large-padding !important;
+}
