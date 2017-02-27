@@ -6,6 +6,7 @@ $small-margin: 15px !default;
 $med-margin: 25px !default;
 $large-margin: 50px !default;
 
-@import "_google_maps"
-@import "_margins"
-@import "_paddings"
+@import "_google_maps";
+@import "_margins";
+@import "_paddings";
+@import "_text_helpers";
